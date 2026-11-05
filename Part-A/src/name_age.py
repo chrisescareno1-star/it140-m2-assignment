@@ -1,9 +1,11 @@
-"""TODO: Replace with a one-line summary of the program's purpose (<73 chars).
-
+"""TODO: The purpose of this program is to greet the user and ask for their name and age. This program will greet them and show them the year they were born. 
 Input:
-    TODO: Replace with a major input, including its type and source.
-    TODO: Replace with another major input, or delete this TODO line.
-    TODO: Replace with another major input, or delete this TODO line.
+    TODO: current_year = system date (year only)
+    TODO: print("what is your name?")
+    TODO: user_name = input()
+          user_age = int(input())
+          birth_year = current_year - user_age
+          Print("Hello", user_name "!", "You were born in", birth_year ".")
 
 Process:
     TODO: Replace with a major processing step.
@@ -27,7 +29,7 @@ CURRENT_YEAR = date.today().year  # Get current year from system as integer
 # === Main Function ===
 def main() -> None:
     """Run the name-age program."""
-
+    
     # Get user input.
     # TODO: Replace with code to get user's name as a string. See zyBooks 1.3.
     # TODO: Replace with code to get user's age as an integer. See zyBooks 2.6.
