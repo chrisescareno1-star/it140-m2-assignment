@@ -56,7 +56,7 @@
 >
 > Enter your response below.
 
-TODO: Replace this text with your one-sentence summary of the program's purpose
+TODO: The purpose of this program is to showcase a statement that tells the user the year they were born after the user inputs their name and age. 
 
 ### 3. Inputs, Processing, and Outputs
 
